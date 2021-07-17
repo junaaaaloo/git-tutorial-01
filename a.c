@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-  printf("Library for C");
+  printf("Hello, World");
   return 0;
 }
